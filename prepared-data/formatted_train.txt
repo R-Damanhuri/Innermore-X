@@ -1,4 +1,3 @@
-tokens	tags
 arbani	B-ACT
 ga	O
 yang	O

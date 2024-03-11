@@ -1,4 +1,3 @@
-tokens	tags
 madame	B-MVT
 web	I-MVT
 memang	O
