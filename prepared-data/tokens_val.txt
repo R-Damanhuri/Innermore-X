@@ -1,3 +1,4 @@
+full_text   label
 madame	B-MVT
 web	I-MVT
 memang	O

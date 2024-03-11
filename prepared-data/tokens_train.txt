@@ -1,3 +1,4 @@
+full_text	label
 arbani	B-ACT
 ga	O
 yang	O
